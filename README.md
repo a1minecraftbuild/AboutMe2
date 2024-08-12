@@ -43,4 +43,5 @@ Life is a game, and **we're** the ones playing it.
 
 ## Persons of Interest
 
-[Scott Cawthon][1]
+[Scott Cawthon][1]<br>
+<kbd><img src="https://github.com/a1minecraftbuild/AboutMe2/blob/main/cawthon.jpeg" height="200px" width="350px"></kbd>
