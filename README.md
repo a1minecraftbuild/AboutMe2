@@ -48,8 +48,8 @@ Life is a game, and **we're** the ones playing it.
 
 ## My Favorite Terms
 
-| Terms | Definitions |
-| :- | :----: |
-|Eternal| Lasting or existing forever; without end or beginning. |
-|Everlasting| Lasting forever or a very long time. |
-|Immortal| Living forever; never dying or decaying. |
+| Terms | Definitions | My Meanings |
+| :- | :----: | -: |
+| Eternal | Lasting or existing forever; without end or beginning. | Forever without stop. |
+| Everlasting | Lasting forever or a very long time. | Something meaningful that lasts forever. |
+| Immortal | Living forever; never dying or decaying. | Never dying. |
